@@ -4,7 +4,7 @@
 
 In the challenging landscape of the current job market, recent graduates, especially those from international backgrounds, often find themselves in a precarious position. Recognizing this issue, we developed GradGrove, an innovative application designed to connect MS graduates in Computer Science with volunteer opportunities that not only enhance their skills but also keep them engaged and compliant with immigration regulations.
 
-GradGrove was conceived during the Spring 2024 Web Development and Management (WDM) Project, an initiative aimed at providing practical, real-world experience to budding software developers. This project marked my debut in a hackathon-style competition, where the fusion of creativity, technology, and a pressing need for graduate support culminated in the creation of GradGrove.
+GradGrove is an initiative aimed at providing practical, real-world experience to budding software developers. This project marked my debut in a hackathon-style competition among peers, where the fusion of creativity, technology, and a pressing need for graduate support culminated in the creation of GradGrove.
 
 ![Thumbnail](https://github.com/srighankittu/GradGrove/blob/main/public/assets/logo/DALL%C2%B7E%202024-02-15%2019.49.15%20-%20Create%20a%20vibrant%20and%20visually%20descriptive%20banner%20image%20for%20the%20GradGrove%20project%2C%20an%20application%20designed%20to%20connect%20MS%20graduates%20in%20Computer%20Science%20.webp)
 
