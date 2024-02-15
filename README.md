@@ -6,7 +6,7 @@ In the challenging landscape of the current job market, recent graduates, especi
 
 GradGrove is an initiative aimed at providing practical, real-world experience to budding software developers. This project marked my debut in a hackathon-style competition among peers, where the fusion of creativity, technology, and a pressing need for graduate support culminated in the creation of GradGrove.
 
-![Thumbnail](https://github.com/srighankittu/GradGrove/blob/main/public/assets/logo/DALL%C2%B7E%202024-02-15%2019.49.15%20-%20Create%20a%20vibrant%20and%20visually%20descriptive%20banner%20image%20for%20the%20GradGrove%20project%2C%20an%20application%20designed%20to%20connect%20MS%20graduates%20in%20Computer%20Science%20.webp)
+![Thumbnail](https://github.com/srighankittu/GradGrove/blob/main/public/assets/logo/banner.webp)
 
 GradGrove acts as a bridge between recent graduates and professors willing to supervise volunteer projects. Through a user-friendly interface, graduates can register, find volunteer tasks aligned with their skills, and commit to 21 hours of weekly work under the guidance of a mentor. The application emphasizes accountability and growth, requiring weekly progress reports to ensure both the development of the graduate and the fulfillment of volunteer commitments.
 
