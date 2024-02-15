@@ -31,7 +31,7 @@ Before working on an existing Issue please follow these steps:
 
 ## Reviewing Pull Requests
 
-During Hacktoberfest I will review Pull Requests latest on Saturday evening. Please be patient. Numerous messages and tags will not speed up the process.
+I will review Pull Requests latest on Saturday evening. Please be patient. Numerous messages and tags will not speed up the process.
 
 ### DOs
 
@@ -41,6 +41,7 @@ During Hacktoberfest I will review Pull Requests latest on Saturday evening. Ple
 
 - do not be rude, disrespectful or aggressive
 - do not repeat comments/messages, this creates more noise than value (check the existing conversation), use GitHub reactions if you agree/disagree with a comment
+- this project is meant for learning purposes only, so try to avoid using AI to make the code changes, even if it is for minor changes. DO NOT USE AI FOR CSS. 
 
 ---
 
